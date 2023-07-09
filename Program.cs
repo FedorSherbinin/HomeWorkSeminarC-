@@ -19,7 +19,7 @@ int num = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine("it's not a three digit number: " );
 */
 
-
+/*
 // Task 2. Напишите программу, которая выводит третью цифру заданного числа.
 
 int ThirdDigit(int num)
@@ -40,7 +40,7 @@ int num = Convert.ToInt32(Console.ReadLine());
     }
     else
     Console.WriteLine("there is no third digit");
-
+*/
 
 /*
 // Task 3. Напишите программу, которая принимает на вход цифру,
